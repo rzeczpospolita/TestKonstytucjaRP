@@ -16,7 +16,7 @@ Rzeczpospolita Polska jest państwem jednolitym.
 Art. 4.
 -------
 1. Władza zwierzchnia w Rzeczypospolitej Polskiej należy do Narodu.
-2. Naród sprawuje władzę przez swoich przedstawicieli lub bezpośrednio.
+2. Naród sprawuje władzę bezpośrednio.
 
 Art. 5.
 -------
